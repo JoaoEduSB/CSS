@@ -1,2 +1,2 @@
 # CSS
-Repositório dedicado aos exercícios de Css do Jailson
+Repositório dedicado aos 12 exercícios de Css do Jailson
